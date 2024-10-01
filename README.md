@@ -1,5 +1,3 @@
 # MyFirstRepo
 
 hello
-
-virjeet
